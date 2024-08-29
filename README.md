@@ -8,7 +8,7 @@ Ensure that you have Node.js and Docker installed on your system.
 
 **Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/kasagi-labo-challenge.git
+git clone https://github.com/klb-aalidin/kasagi-labo-challenge.git
 cd kasagi-labo-challenge
 ```
 
